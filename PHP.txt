@@ -1,0 +1,4 @@
+html5 co the dung the do minh dat
+class su dung nhieu lan
+id chi 1 lan
+data co th dung nhieu
